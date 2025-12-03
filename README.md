@@ -1,9 +1,22 @@
+<div align="center">
+
 # 🧠 **Competitive Programming Practice Tracker**
-## **A Full-Stack DBMS Project using MySQL + Streamlit + Python**
+### **A Full-Stack  Project using MySQL + Streamlit + Python**
+
+<img src="https://img.icons8.com/color/96/code.png" width="90"/>
 
 ---
 
-## 🚀 **Overview**
+## 🏷️ **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
+
+</div>
+
+---
+
+# 🚀 **Overview**
 
 The **Competitive Programming Practice Tracker** is a complete **database-driven analytical platform** designed to monitor competitive programming performance across platforms such as **LeetCode, Codeforces, HackerRank, CodeChef, and AtCoder**.
 
@@ -109,3 +122,11 @@ This project demonstrates a complete example of integrating:
 **Database Management → Backend Logic → Data Analytics → Frontend UI**
 
 It successfully showcases DBMS concepts such as **triggers, procedures, views, joins, normalization, and real-time analytics**.
+
+---
+
+<div align="center">
+  
+### Do check my other repositories also....
+
+</div>
